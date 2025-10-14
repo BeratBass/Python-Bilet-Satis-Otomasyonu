@@ -44,14 +44,6 @@ Kullanıcılar; sinema, tiyatro ve konser için bilet rezervasyonu veya satın a
 - Mantık: Menü geçişleri, input kontrolleri ve pop-up pencereler ile dinamik yapı  
 - Çoklu kategori desteği (sinema, tiyatro, konser)
 
----
-
-## 👨‍💻 Geliştirici
-
-**Berat Baş**  
-🎓 Osmaniye Korkut Ata Üniversitesi  
-📱 Mobil ve Masaüstü Uygulama Geliştirici  
-🔗 [LinkedIn Profilim](www.linkedin.com/in/berat-baş-6a91a3274)
 
 ---
 

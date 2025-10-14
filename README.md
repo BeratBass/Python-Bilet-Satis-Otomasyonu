@@ -1,15 +1,59 @@
-# Python-Bilet-Satis-Otomasyonu
-Pyhton Tkenter kullanılarak oluşturulan Bilet Satış Otomasyon Projesi
+# 🎟️ Python Bilet Satış Otomasyonu
 
+Bu proje, **Python Tkinter** kullanılarak geliştirilmiş basit bir **bilet satış ve rezervasyon otomasyon sistemidir**.  
+Kullanıcılar; sinema, tiyatro ve konser için bilet rezervasyonu veya satın alma işlemleri yapabilir.
 
-Açılan ekranda sinema,tiyatro ve konser butonların altındaki resimlere tıkladığınızda fragmanları,kısa tiyatro kesitleri ve konser kesitlerini görebilirsiniz.
-cinema/concert/theatre butonuna tıklandığında karşınıza yeni bir ekran açılacak ilk gelen menü rezervasyon menüsüdür.
-İsim,soyisim ve telefon numarası gireceksiniz.
-Aşağı kısımda gün,ay,yıl,film,salon ve kaç kişi olduğunuzu seçebilirsiniz.
-Make a reservation butonuna tıklayarak rezervasyonunuz yapılır ve açılan ekranda rezervasyon bilgileri yeni açılan pencerede karşınıza çıkar.
-Alt kısımda ise günlük bilet satımı gerçekleştirilir.
-İsim,soyisim ve telefon numarası gireceksiniz.
-Aşağı kısımda ise gün,ay,yıl,film,salon ve kaç kişi olduğunuzu seçebilirsiniz. 
-Choose other seat butonuna tıklayarak diğer koltukları seçebilirsiniz.
-Ardından Buy Ticket adlı butona tıkladığınızda girdiğiniz bilgileri yeni açılan pencerede karşınıza çıkar.
-Tüm işlemleriniz bittikten sonra da Confirm and finish butonuna basarak uygulamayı kapatabilirsiniz.Çalışma prensibi diğer kategorilerde de aynıdır.
+---
+
+## 🧩 Proje Özeti
+
+🎬 **Teknolojiler:** Python, Tkinter  
+🎯 **Amaç:** Kullanıcı arayüzü üzerinden etkinliklere ait bilet satış ve rezervasyon işlemlerini gerçekleştirmek.  
+🗓️ **Kapsam:**  
+- Sinema, tiyatro ve konser seçenekleri  
+- Fragman / kısa gösterim önizlemeleri  
+- Rezervasyon oluşturma  
+- Koltuk seçimi  
+- Bilet satın alma işlemleri
+
+---
+
+## 💻 Özellikler
+
+- 🎥 **Fragman & Görsel Önizleme:**  
+  Etkinlik türüne göre kısa video veya görseller görüntülenir.
+
+- 🎫 **Rezervasyon Menüsü:**  
+  Kullanıcı adı, soyadı, telefon numarası, tarih, film/salon seçimi ve kişi sayısı bilgileri alınır.
+
+- 💺 **Koltuk Seçimi:**  
+  “Choose other seat” butonu ile farklı koltuk seçilebilir.
+
+- 💵 **Bilet Satışı:**  
+  “Buy Ticket” butonuyla seçilen bilgiler doğrultusunda bilet satın alınır.
+
+- ✅ **Onay & Çıkış:**  
+  “Confirm and Finish” butonu ile işlemler tamamlanır.
+
+---
+
+## 🧠 Teknik Detaylar
+
+- Arayüz: `Tkinter`  
+- Veri Akışı: Form girdileri üzerinden kullanıcı verisi işlenir  
+- Mantık: Menü geçişleri, input kontrolleri ve pop-up pencereler ile dinamik yapı  
+- Çoklu kategori desteği (sinema, tiyatro, konser)
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Berat Baş**  
+🎓 Osmaniye Korkut Ata Üniversitesi  
+📱 Mobil ve Masaüstü Uygulama Geliştirici  
+🔗 [LinkedIn Profilim](www.linkedin.com/in/berat-baş-6a91a3274)
+
+---
+
+⭐ Bu proje, yazılım geliştiriciliğe ilk adımı attığım dönemden bir örnektir.  
+Basit bir yapı olsa da, **arayüz geliştirme, kullanıcı etkileşimi ve mantıksal akış** konularında önemli bir temel oluşturmuştur.

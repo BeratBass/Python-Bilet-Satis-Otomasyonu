@@ -1,6 +1,7 @@
 # 🎟️ Python Bilet Satış Otomasyonu
 
-Bu proje, **Python Tkinter** kullanılarak geliştirilmiş basit bir **bilet satış ve rezervasyon otomasyon sistemidir**.  
+Bu proje, **üniversite 1. sınıfta yaptığım ilk yazılım projemdir.**  
+**Python Tkinter** kullanılarak geliştirilmiş basit bir **bilet satış ve rezervasyon otomasyon sistemidir.**  
 Kullanıcılar; sinema, tiyatro ve konser için bilet rezervasyonu veya satın alma işlemleri yapabilir.
 
 ---
@@ -44,8 +45,15 @@ Kullanıcılar; sinema, tiyatro ve konser için bilet rezervasyonu veya satın a
 - Mantık: Menü geçişleri, input kontrolleri ve pop-up pencereler ile dinamik yapı  
 - Çoklu kategori desteği (sinema, tiyatro, konser)
 
+---
+
+## 📸 Ekran Görüntüsü
+
+Aşağıda proje arayüzüne ait bir ekran görüntüsü yer almaktadır:  
+
+![Bilet Satış Otomasyonu Screenshot](/screenshot.png)
 
 ---
 
-⭐ Bu proje, yazılım geliştiriciliğe ilk adımı attığım dönemden bir örnektir.  
-Basit bir yapı olsa da, **arayüz geliştirme, kullanıcı etkileşimi ve mantıksal akış** konularında önemli bir temel oluşturmuştur.
+⭐ Bu proje, yazılım geliştiriciliğe attığım **ilk adımdır.**  
+Basit bir yapı olsa da, **arayüz geliştirme, kullanıcı etkileşimi ve programlama mantığı** konularında güçlü bir temel oluşturmamı sağladı.
